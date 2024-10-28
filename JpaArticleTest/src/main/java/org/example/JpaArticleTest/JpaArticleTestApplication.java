@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TextTestApplication {
+public class JpaArticleTestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TextTestApplication.class, args);
+        SpringApplication.run(JpaArticleTestApplication.class, args);
     }
 
 }

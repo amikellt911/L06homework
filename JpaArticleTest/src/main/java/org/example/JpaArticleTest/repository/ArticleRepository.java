@@ -1,6 +1,6 @@
 package org.example.text_test.repository;
 
-import org.example.text_test.entity.Article;
+import org.example.JpaArticleTest.entity.Article;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 

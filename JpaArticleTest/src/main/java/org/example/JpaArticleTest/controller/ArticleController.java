@@ -1,4 +1,4 @@
-package org.example.text_test.controller;
+package org.example.d.controller;
 
 import org.example.text_test.entity.Article;
 import org.example.text_test.repository.ArticleRepository;
